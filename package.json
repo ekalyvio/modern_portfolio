@@ -9,6 +9,6 @@
   "author": "Efthymios Kalyviotis",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^4.14.0"
   }
 }
