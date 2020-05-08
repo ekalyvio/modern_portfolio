@@ -34,3 +34,7 @@ https://www.w3schools.com/css/css3_2dtransforms.asp
 https://www.w3schools.com/cssref/pr_class_display.asp
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+
+----------- Media Queries -----------
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+https://www.w3schools.com/cssref/css3_pr_mediaquery.asp
